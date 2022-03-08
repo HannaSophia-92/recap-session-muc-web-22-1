@@ -1,0 +1,10 @@
+.Card {
+  background-color: #eee;
+  margin-bottom: 20px;
+  padding: 20px;
+}
+
+.Card__image {
+  margin-top: 20px;
+  display: block;
+}
